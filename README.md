@@ -2,6 +2,8 @@
 
 This script (`zoho_auth.php`) enables admin login to HESK using Zoho OAuth2, replacing traditional password login with secure OAuth authentication.
 
+<span style="color:red">If you wish to contribute and add support for more OAuth providers, feel free to base off the original script and push new providers into this directory.</span>
+
 ---
 
 ## Features
