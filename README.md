@@ -56,6 +56,8 @@ if (isset($_SESSION['oauth_elevator_mode']) && isset($_SESSION['oauth_authentica
 ```
 Use the URL elevator.php?oauth=zoho to trigger Zoho OAuth elevation.
 
+---
+
 ## Requirements
 - PHP with cURL enabled
 - HESK version 3.6 or higher (was developed on HESK 3.6.2, feel free to push changes if broken)
