@@ -37,7 +37,7 @@ Add this **outside** (above or below) the traditional login form:
 
 ```
 
-## Adding Zoho OAuth to `elevator.php`
+## Adding Zoho OAuth to `admin/elevator.php`
 
 Add this code at the top of `elevator.php`:
 
